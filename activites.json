@@ -1,0 +1,11 @@
+[
+  {"id": 1, "type": "Sport", "duree": 45, "unite": "min", "date": "2026-06-21"},
+  {"id": 2, "type": "Sport", "duree": 30, "unite": "min", "date": "2026-06-20"},
+  {"id": 3, "type": "Eau", "duree": 1.5, "unite": "L", "date": "2026-06-21"},
+  {"id": 4, "type": "Eau", "duree": 2, "unite": "L", "date": "2026-06-20"},
+  {"id": 5, "type": "Sommeil", "duree": 8, "unite": "h", "date": "2026-06-21"},
+  {"id": 6, "type": "Sommeil", "duree": 6.5, "unite": "h", "date": "2026-06-20"},
+  {"id": 7, "type": "Sport", "duree": 60, "unite": "min", "date": "2026-06-19"},
+  {"id": 8, "type": "Eau", "duree": 1, "unite": "L", "date": "2026-06-19"},
+  {"id": 9, "type": "Sommeil", "duree": 7, "unite": "h", "date": "2026-06-19"}
+]
